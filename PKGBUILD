@@ -21,7 +21,7 @@ source=(http://font-manager.googlecode.com/files/${pkgname}-${pkgver}.tar.bz2
 md5sums=('7cd3b635eaddcb84a8b31509880510ed'
          '50e732de1a92bc498d4cffd39185225c'
          '727acfbbce4ab8d05078e4719443ce29'
-         '4dbc68a8063632840cfc3f26c66f96c8')
+         '8dbbbb72f3f3d931d0f3a25c1a00dc85')
 
 build() {
   cd ${srcdir}/${pkgname}-${pkgver}
